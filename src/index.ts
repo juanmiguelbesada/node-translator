@@ -1,3 +1,3 @@
-export default function main() {
-  console.log("Hello world");
+export default function main(): void {
+  console.log('Hello world');
 }
